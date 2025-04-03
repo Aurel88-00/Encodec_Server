@@ -8,5 +8,6 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone [ https://github.com/your-username/your-repo.git](https://github.com/Aurel88-00/Encodec_Server)
-cd your-repo
+git clone [https://github.com/Aurel88-00/Encodec_Server](https://github.com/Aurel88-00/Encodec_Server)
+cd Encodec_Server
+
