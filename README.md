@@ -15,7 +15,7 @@ cd Encodec_Server
 ## Create and Activate Virtual Environment
 ```bash
 python -m venv venv
-venv\Scripts\activate
+venv\bin\activate
 ```
 ## Install Dependencies
 ```bash
