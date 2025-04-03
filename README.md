@@ -1,8 +1,7 @@
 ## Prerequisites
 
-- Python 3.6 or higher installed
-- Git installed
-- (Optional) GitHub account for cloning private repositories
+- Python 3.6 or higher
+- Git 
 
 ## Setup Instructions
 
