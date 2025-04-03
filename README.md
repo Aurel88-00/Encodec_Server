@@ -7,7 +7,7 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/Aurel88-00/Encodec_Server](https://github.com/Aurel88-00/Encodec_Server)
+git clone https://github.com/Aurel88-00/Encodec_Server.git
 cd Encodec_Server
 ```
 * Make sure to clone the repo in the same directory as the frontend: [Encodec_Frontend](https://github.com/Aurel88-00/Encodec_Frontend)
